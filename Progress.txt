@@ -1,0 +1,8 @@
+06/17/202
+
+Tasks:
+1. divide train into categories: depress, suicide, drug, alcohol, find words that are associated with each category (anthony)
+2. tensorflow, read the article, find good packages (Athena)
+3. anything you want (Catherine)
+
+Next Meeting: 06/19/2020 (Friday) 
