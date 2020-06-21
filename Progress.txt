@@ -6,3 +6,9 @@ Tasks:
 3. anything you want (Catherine)
 
 Next Meeting: 06/19/2020 (Friday) 
+
+
+06/20/2020
+1. Anthony: read article and figure out tensor flow
+2. Athena: multiclass support vector machine
+3. Cat: perceptrons
