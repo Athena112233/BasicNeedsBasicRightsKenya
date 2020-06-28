@@ -1,0 +1,617 @@
+,ID,text,label
+0,SUAVK39Z,I feel better I dieAm happy,Depression
+1,9JDAGUV3,Why I get hallucinations,Drugs
+2,419WR1LQ,I stresseed due lack financial support school,Depression
+3,6UY7DX6Q,Why life important,Suicide
+4,FYC0FTFB,How could I helped go depression,Depression
+5,V6VSDJ5I,What effects depression ones health,Depression
+6,9736J4UE,Why everything hard deal life,Depression
+7,AY8L479Y,I feel emotionally overwhelmed,Depression
+8,OSFJV5EC,How manage taking alcohol,Alcohol
+9,U4SGUGGM,Is heaven open us smoke bhang,Drugs
+10,JGBMEUC1,How survive without money,Depression
+11,LM8GPR0X,How stop What I life becomes unbearable,Alcohol
+12,EIF8Y8MX,I ever sad alone always drugsNow I know cope negative aspects life,Depression
+13,03TVUJ9J,I feel empty absent minded,Depression
+14,CBMIYRK7,I experienced depression studies,Depression
+15,Y5MH83OX,I feel like alone world,Depression
+16,OHIWTBLA,I feel low place,Depression
+17,0LPO6TKU,What get depression,Depression
+18,WQG9NYO0,How I stop using alcohol,Alcohol
+19,WYDRQKK9,I feel hopeless unworthy useless …How I cope stress frorge past,Depression
+20,H6HGNIPM,Does mediataton help stop weed addiction,Drugs
+21,JJFB80YG,I feel bad life difficulties I also feel bad I one control,Depression
+22,SI6LH9S9,What effects smoking bhang,Drugs
+23,P4T442GZ,Sadness hatredNow feeling happiness,Depression
+24,6T60B8ZM,Feelings like everything falling apart Now things control,Depression
+25,EL8WHB10,I cope ta difficult situation I avoid,Depression
+26,K9DGPFW6,Deteriorating academic performance,Depression
+27,46DPSGSJ,Effect alcohol society body,Alcohol
+28,AWTMRJ2C,How could stop using bhang,Drugs
+29,Z38CHPES,How avoid drug abuse,Drugs
+30,NUJNN8HA,How I stop What addiction means,Alcohol
+31,O7SRICTV,I feel rejected,Depression
+32,TY6R8YBF,Is right depressed person use drugs,Depression
+33,4DDQ2BRX,I stopped taking alcohol thought good,Alcohol
+34,CV11SA2H,How I seek help alcoholism,Alcohol
+35,NYZTVG5E,stressed,Depression
+36,G5GF4H7P,Main challenges depression side effects health,Depression
+37,ZB73RBET,feel confused helpless pushed cornerFeeling kind better,Depression
+38,93G4A70N,How one avoid bad company,Drugs
+39,X45W9Q0S,How avoiod depression campus,Depression
+40,ZBUCI1MA,Causes suicide youths,Suicide
+41,J9T35NVE,What effects alcohol,Alcohol
+42,JP9NVFHD,I feel low I overcome,Depression
+43,ML2SKCYN,I feel painful unwanted,Depression
+44,MT04SPT2,What I change situation,Depression
+45,G4VUYDC1,What resist bad feeling,Depression
+46,5M88BU4L,Too much classwork I cope ith many responsibilities,Depression
+47,2ANINIO7,How I stop alcohol,Alcohol
+48,BXMHPTHE,I facing lot challenges life financially emotionally psycologically solutions…How I safely look solutions depression google,Depression
+49,459AWRKP,I always feel,Depression
+50,2ZH6D7O3,sad lonely,Depression
+51,9XPAAVP5,I feel I unworthy wasted,Depression
+52,8MPE9DNC,best ways I follow stop using,Alcohol
+53,65WCW3PH,I think I handle drink,Alcohol
+54,J4ES54MZ,I feel depressed relationship issueS,Depression
+55,97VW5839,How stop taking alcohol,Alcohol
+56,6T8HVMG3,I minimize alcoholism,Alcohol
+57,0RFTD03Y,How deal overcome bad situation,Suicide
+58,KBYAYAJC,Effects alcohol,Alcohol
+59,9WUGXUWF,I used rent money gambling,Depression
+60,QKBV071K,Why exist,Depression
+61,BM946H9J,Will Prayer help sucidal thoughts,Suicide
+62,IBADW0FW,How I get help,Depression
+63,5I2N159N,Who could reason depression,Depression
+64,KTL0D91A,I suffer depression times think best way avoid keeping busy,Depression
+65,1JALYOEE,How avoid alcohol,Alcohol
+66,HD9XSQZD,Lonely happiness,Depression
+67,T65023SD,harm fo I take alcohol,Alcohol
+68,YAKKXF3T,What importance alcohol,Alcohol
+69,PENYQE5S,I feel indescribable sadness,Depression
+70,89FS5OH2,What common ways reduce depression,Depression
+71,HSAB9P4S,I feel low,Depression
+72,RI9SGXM0,Parental negletion causing depression,Depression
+73,4B8XOMN7,Effects alcohol body health,Alcohol
+74,NGK6ZM5H,I bad company friends influence smoke weed,Drugs
+75,TD9B0JK7,I ’ succed I,Depression
+76,SCTJPCQ1,Is self worth life,Suicide
+77,QDBMJA08,I low self esteem,Depression
+78,YS9D64RF,How I overcome alcoholism,Alcohol
+79,MKWX9595,How stop using weed,Drugs
+80,HIE8CSV7,I downhearted How I overcome feeling,Depression
+81,F6LTQ978,How stop alcohol,Alcohol
+82,P1R7AXPE,I stop drinking alcohol,Alcohol
+83,SCBE9RL5,How overcome incident,Suicide
+84,27LQQZQ3,Side effects problems associated depression,Depression
+85,KHJGZIB1,I feel irritated happen,Depression
+86,VPIOXWS8,What best way withdraw drugs,Drugs
+87,4HDJ2MLK,Feelings anxiety fear feelings inadequacy,Depression
+88,IXEQA3Y4,What good life,Alcohol
+89,X7ONF6SO,What effects depression,Depression
+90,MTTRV505,Measures take overcome suicidal thoughts,Suicide
+91,GR0P3AXE,I avoid getting addicted,Alcohol
+92,DQYT5T05,Feeling lonelyNow I feel better,Depression
+93,50NFWPFO,use bhang,Drugs
+94,G1CNQX97,I felt incomplete overthinking stress,Depression
+95,7ONNL6JS,My feelings chaotic sad isolatedNow better,Depression
+96,HBG8Z32E,How study avoid failing exams,Depression
+97,RICJ4SMV,Was sad lonely confusedNow happy content,Depression
+98,87FJU3OA,How stop drug abuse,Drugs
+99,4091K7GR,Why drink anyway What effect overdrinking alcohol,Alcohol
+100,PTJM4W2F,How overcome peer pressure taking alcohol,Alcohol
+101,M4SRHJHN,I thinking school expenses,Depression
+102,F4UA4E08,I handle pain,Depression
+103,4YAZ71T4,I inorder stop alcohol abuse,Alcohol
+104,RG2YXG81,How manage social drinking,Alcohol
+105,QY55OB2E,Why life difficult,Suicide
+106,SP3FVI1L,I sad,Depression
+107,LZX05AM2,It feels head exploding Lots burnout Am feeling much better,Depression
+108,TNLKFJ3W,I feel hopelessFor I fine,Depression
+109,VSMF1JK5,I got stagnation point dropped classes,Depression
+110,0WD80PHP,advantages taking bhang,Drugs
+111,1I1423F8,I feel stressed hopeless,Depression
+112,SD3C3HNH,Challenging,Depression
+113,9XHFLZW0,I feel abandoned lonely,Depression
+114,PBVEUVY5,I ca nt stop smoking weed good feeling calmness,Drugs
+115,V0SS50TS,I overwhelmed life,Suicide
+116,1VIUC0G0,I feel terrible,Depression
+117,J6DZPN7V,Is taking drugs worth,Drugs
+118,4JF0OXGT,I feel like days flying past,Depression
+119,S1FD3U91,Why bad things always happen,Depression
+120,T62AVHMC,Lonely stressed,Depression
+121,11CGOZLV,How I avoid wasting money alcohol friends,Alcohol
+122,UL95QSEX,Dissappointed,Depression
+123,4FZFI3HJ,How one come depression,Depression
+124,33K6R2R3,How stop addiction,Alcohol
+125,LPV5XWOK,I Lonely nott simply relationship issues,Depression
+126,X8GDM3BF,I still depressed worried mental health,Depression
+127,OZFGITK8,How I stop,Alcohol
+128,HF2DDNQZ,What one reduce feeling depression,Depression
+129,YYNUDOWG,How reduce excess intake alcohol,Alcohol
+130,P7Z3JK1D,I disclose issues,Depression
+131,L1GXD7QK,Impacts alcohol real life,Alcohol
+132,P6F3W88R,How I stop taking bhang,Drugs
+133,XPNDRLBZ,I depressed I feel like whole world,Depression
+134,TU17R8EH,I really feel bored situation I experiencing dizzines lack appetite,Depression
+135,MNARVFA1,I feel things going way feel like giving,Depression
+136,3HVSN1L9,I feel like I wasted life,Depression
+137,AET542VI,Insomia headache social problems,Depression
+138,E064SNA9,How I without alcohol stressed,Alcohol
+139,39NBD6FO,What makes one addict alcohol,Alcohol
+140,TFB5T5K9,How stop drinking,Alcohol
+141,X1ROWD34,How stop reduce alcohol,Alcohol
+142,5SQF3ZIP,How I without relationship,Depression
+143,PW1OUC5S,How gain momentum academics,Depression
+144,HFT4O5RI,I feel nobody loved much I world I feel much bette,Depression
+145,BIQ3K5MF,I feel like world,Depression
+146,RPR79301,How I stop drug usage,Drugs
+147,SRRPHNPR,Does bhang affect memory,Drugs
+148,X8ZI1GT6,I haveI feeling lone ranger I okay,Depression
+149,OSOAIJEZ,How stop bhang,Drugs
+150,UVSIAT7E,I feel like giving everything,Depression
+151,K186E1KR,I feel sad,Depression
+152,IMXTN5TC,I feel less important anyone,Depression
+153,DXPY4E6H,Causes alcoholism ways one stop alcohol,Alcohol
+154,Z5ZE798J,Ways stop alcohol addiction,Alcohol
+155,SDRU0I0I,I feel low like way death,Depression
+156,7QCXEWFU,What life,Drugs
+157,F9NRCHYI,Looking employment still depressed,Depression
+158,519MFQ9G,I stop,Drugs
+159,AWQDGRT6,feel well okay,Depression
+160,PO5PLBDQ,I feel low lost hope everythingI feel better,Depression
+161,DGPCPMEH,I disease drained resources family,Depression
+162,5JLVKXY3,I involved Love affair I would like know hw I control,Depression
+163,H9JJ8H3N,I waste money alcohol,Alcohol
+164,CGF1MPRY,What effects smoking bhang,Drugs
+165,GUDI29F9,What best coping strategies deal stress,Alcohol
+166,W1E9KIF6,sister oftenly faints troubles,Depression
+167,9U6OKPXX,Hopeless get,Depression
+168,4XNB1V5E,I depressed want solitude,Depression
+169,VHHH5F68,Is withdrawal people helpful commiting suicide,Suicide
+170,NHTQ6O30,feel stressed,Depression
+171,FHO1C5EF,Is peer counselling programme,Depression
+172,7TYFSZHT,How overcome alcoholism,Alcohol
+173,MO49SQRK,How I stop taking alcohol,Alcohol
+174,JGF06QXV,I hate life,Depression
+175,2WAYPCEQ,I given everything life,Depression
+176,U9T40R7Q,Causes suicide,Suicide
+177,H7X049T2,im feeling stressed,Depression
+178,CEAOWJOR,Why larger percentage youths involved alcoholism,Alcohol
+179,BXPHSVEO,Where get money needs…Where I get money personal needs,Depression
+180,C7QD5SLH,How get better,Depression
+181,C4Q8W3C9,How avoid thoughts,Suicide
+182,Z5XWUAEQ,What reason depression,Depression
+183,Y7B63LQT,Why people think commiting suicide,Suicide
+184,SGZIY718,What effects drug consumption,Drugs
+185,QCIAO332,How I overcome feeling weaker weaker thoughts,Depression
+186,1A99866J,I feel horrible unsatisfied,Depression
+187,2K0PN69M,Ways overcoming peer influence alcoholism,Alcohol
+188,7X4ZSOCS,How I stop taking alcohol Do recommend rehabilitation,Alcohol
+189,YNB3JEUO,What mum think whren finds I smoke weed,Drugs
+190,AP3VVFX6,Will alcohol lead bad place life,Alcohol
+191,JPRV8I5J,Why I suffer,Suicide
+192,L9NXPIEN,Depressed broken relationship church pastor sex highschool daughter,Depression
+193,7L9G3QJ9,Who guide whn depressed,Depression
+194,J55053XP,I financially constrained school fees family background stable lot debts…I elderly brother could easily support job even graduating,Depression
+195,YMIV9TAR,stressed overwhelmed many thingof lifeRight I taking things easy,Depression
+196,ROK05XD3,I feel discouraged self esteem went low,Depression
+197,JOWFMRU7,I feel unloved unwanted,Depression
+198,CPZ81QFJ,I need advise avoid alcohol,Alcohol
+199,1V9AWIGY,Does smoking make one cool,Drugs
+200,R0AW64SP,I feel depressed issues best friend parents I lowest point lowkey everyday,Depression
+201,TD15L93X,I never feel like I npt worth living,Depression
+202,9QYAHRR5,feel low sad,Depression
+203,NUCSE95E,Being left person loved,Depression
+204,8NNK7CZJ,I feel trapped,Depression
+205,94N9JHU2,This loneliest moments,Depression
+206,CZ0V545V,I depressed I feel like giving life,Depression
+207,UUB5FREC,I tried asking stop habit,Alcohol
+208,LD2JTQWZ,ways dealing depression,Depression
+209,DQXPXEQN,I want alone company friends,Depression
+210,PB50CNUF,I told strong enough,Depression
+211,6QZH2CWL,Lonely isolated weak,Depression
+212,JYHRF3IE,I feel helpless,Depression
+213,NQL6BXUU,Is life hard,Depression
+214,F5N4RU80,Why health deteroriating,Alcohol
+215,KPWR5OTH,I feel withdrawn alone stresssed sad,Depression
+216,IO6PZ9Y1,How I overcome suicide heartbreak,Suicide
+217,F0I7GIGE,I feel desparate…why world unfair,Depression
+218,698A4P0J,I feel like world falling apart,Depression
+219,WLEWY07N,Effects alcohol life,Alcohol
+220,24NNBTL7,How deal hallucinations,Drugs
+221,1HA77QQ3,Sad lonely tired,Depression
+222,YZWFPP8M,feel lonelyI quite okay,Depression
+223,A4BCYETH,I take alcohol personal realization,Alcohol
+224,YIXKUJUC,quit alcohol,Alcohol
+225,NIAOYQXU,life even worth,Suicide
+226,N2DJJ1XY,I feel everything coming end,Depression
+227,XY588V2F,What effects alcohol bodies,Alcohol
+228,D64IPYOU,How manage relationship,Suicide
+229,SAWSGYZB,What solution feeling hopeless,Depression
+230,0UNXTGLP,How motivate feeling low,Depression
+231,UTKO2AZD,Never sought assistance,Suicide
+232,2ASR64M6,Is alcohol really harmful,Alcohol
+233,BGPNXEE0,What could deal frustrations,Drugs
+234,93HHN24Q,things happen,Suicide
+235,MOVEQ145,I seek help,Suicide
+236,ZHP9VVGC,Does weed good,Drugs
+237,SA2FYD2A,I feel heart broken,Depression
+238,WGML4P7B,If person wronged forgive accept reconcilliation,Suicide
+239,3GLOZPU4,I feel like world especially friends relatives close I conqured life important,Depression
+240,SMVFTBV1,The feeling like alone world,Depression
+241,8E412HHJ,Sad lonely,Depression
+242,X0YHNC8N,I feel like giving,Depression
+243,KLX5TBWE,Is childlish feel depressed,Depression
+244,ZFTOS18U,How I shun,Depression
+245,OM77C6FZ,Feeling relieved,Depression
+246,NOXKH5TS,Whom I approach mentally disturbed,Depression
+247,37IG68E9,I always feel heartbroken time,Suicide
+248,YDMU6CHX,I experienced stress led depressionI issue handled,Depression
+249,Q4R2NXGE,I fee sad unwanted,Depression
+250,WBGFUUCK,I helped come depression,Depression
+251,ZP5PTWOV,I feel sad,Depression
+252,AAKPNVQO,I broke unpreparedness exams,Depression
+253,2JTGDT5L,What I live isolated place,Depression
+254,UU3DHPUN,How stop behaviour alcohol taking,Alcohol
+255,ATO107VQ,I able handle stress feel like taking away life,Suicide
+256,TBAG3V8T,could cause depression I overcome,Depression
+257,6IGFTWHT,Can beer lead problem,Alcohol
+258,1AOWXKXV,How stop,Drugs
+259,FAFZLNY4,I financial crisis,Depression
+260,SRK3NE8O,I smoked weed addidcted need assistance,Drugs
+261,LGBXU9PN,Is alccohol form entertainment young adults,Alcohol
+262,T8BIPMVF,I feel Sad,Depression
+263,4VMEBNDV,I lost father,Depression
+264,2QRTGS6A,Why I needed keep holding nothing If life really ahd purpose,Suicide
+265,E1NEHTU0,How convince someone commiting suicide,Suicide
+266,019YKKY0,I feel bad I dont want interact anyone,Depression
+267,A04YR7N0,How control emotions How stop drinnking,Alcohol
+268,XBFD6MDZ,I feel lowI feel good better,Depression
+269,EK67UMY1,I feel like commiting suicide need solutions problem led depression,Depression
+270,124Y7IO6,Financial issues,Depression
+271,6XVOCUMI,How stop bhang,Drugs
+272,MIZ8T6M9,How I deal depression I,Depression
+273,3WINGR1Y,How stop taking alcohol,Alcohol
+274,ZN43XFVV,I feel like nobody cares,Depression
+275,4SB4B0B5,I feeling I pleasing,Depression
+276,OLQHJ0PO,How I overcome depression Why must,Depression
+277,UZFCOXZP,How I stay without smoking,Drugs
+278,1M6N5OI2,How stop addiction,Alcohol
+279,BHG2VBMC,I feel like killing killing people caused depression,Depression
+280,8BKND7CF,I almost gave got assistance,Depression
+281,8UAQNJAY,Am I addicted,Alcohol
+282,JFXSWJSP,Is alcohol helpful ones health,Alcohol
+283,57OCJ216,What permanent solution depressed person,Depression
+284,D4PDKNYF,How deal problems lead suicide,Suicide
+285,0TID986J,quit alcohol,Alcohol
+286,V8L9C5XG,I overwhelmed deal issue I fine,Depression
+287,COHF4DEW,I feel severely depressed I withdraw people prefer alone,Depression
+288,GI46OIMU,I lost bet house rent,Depression
+289,MVVH8XCA,I feel uneasy difficulty life,Depression
+290,BS8XRA3X,I feel sad hopeless sure depression,Depression
+291,DP6D3EG6,Are helpful effects bhang,Drugs
+292,V0C7LKYN,I nervous bothered,Depression
+293,5272SYMK,Where I find rehabilitation center,Drugs
+294,PKIO2M1G,Suicidal thoughts stress hyperarousal,Depression
+295,PQP1IRYK,What main causes excessive alcohol taking,Alcohol
+296,9EJV3WJK,Why life difficult,Suicide
+297,SJ2J5OEL,I nt feel like talking anyone,Depression
+298,1IHTBDJ2,What I relieved,Depression
+299,LIHIU7DI,Main causes depression deal arise,Depression
+300,U3T52WN4,I feel lonely discouraged,Depression
+301,52BWXOL8,SadI good,Depression
+302,KWNGKGHQ,I feel like life make sense,Depression
+303,3MXZDXDL,How limit getting depressed,Depression
+304,2KOGKZUF,I feel like life done joy life,Depression
+305,JZRQUUF1,The loss beloved father,Depression
+306,48HYYYED,Why people take alcohol benefitial life What one avoid taking alcohol,Alcohol
+307,PMFIIRXF,I make money,Depression
+308,IW10CAAM,I feel lonely one wanted stay around,Depression
+309,E7BSF5F4,How I stop using alcohol,Alcohol
+310,W6C11AZK,feeling unloved unwanted I dont deserve alive,Depression
+311,1ECHO6JY,How overcome frustration,Suicide
+312,Q06DDJ1O,What causes depression effects,Depression
+313,J3ORYNFV,I felt emotionally low sad time I feel better stronger happier,Depression
+314,WZ2MGVEF,I financially instable,Depression
+315,QEMQKIIN,Why challenges come way one thought,Suicide
+316,9DOVTEWF,How stop taking alcohol,Alcohol
+317,EV19B9ZK,I devastated angry ather people,Depression
+318,VVC47SJA,How I stop,Alcohol
+319,79DO3BLF,What effects get rid,Alcohol
+320,U26JDVW1,I need help help manage situation,Depression
+321,4HP750CC,How I get financial sponsorship,Depression
+322,ZZQSS6H4,I avoid stress,Depression
+323,DPRVXK1C,I feel sickly lack appetite,Depression
+324,LPXJIQ0F,I feel like life good since I one talk,Depression
+325,XS8XILTW,worst experience alcohol,Alcohol
+326,YOJA9LQH,Why depression occurs,Depression
+327,IKLQJKBL,I stop alcoholism,Alcohol
+328,DMC1XK7H,I felt sad stressed lowi better,Depression
+329,FIH2SDXX,My family split I deeply affected,Depression
+330,SRN1G752,Loss close family member,Depression
+331,HXYQVQWR,What means avoid alcohol,Alcohol
+332,PNXEUYN8,Family issue,Depression
+333,XWU3Z6IA,What I going reconcile parents rejected,Depression
+334,806HFIMM,How get depression future,Depression
+335,458NTYKE,Had problem personal looks feel sad,Depression
+336,530N0OSW,How stop alcohol,Alcohol
+337,HRDQXFHE,How I overcome peer pressure,Alcohol
+338,ETG5YAOK,I depressed way back highschool looking schoolfees,Depression
+339,5HNNAWYU,What life,Alcohol
+340,5THWQBRK,Can I ever get back old person,Alcohol
+341,8P56CL8S,Can I kill,Depression
+342,4V3L91FT,I find pleasure things,Depression
+343,F0NI9AOY,How I overcome depression,Depression
+344,A1TVAV77,What I get depressed,Depression
+345,O55WPPEO,Is anything avoid smoking weed,Drugs
+346,NO6BCAST,How stop drinking alcohol,Alcohol
+347,W9HP80YU,I nt feel loved,Depression
+348,ZI14LEQ6,Low alone,Depression
+349,DN5UJHKK,I still thinking getting back alcohol,Alcohol
+350,WI9JJNVI,How I overcome alcohol addiction,Alcohol
+351,XBAYE2FN,Does drinking alcohol solve problems,Alcohol
+352,3J7JPGD7,I low self esteem,Depression
+353,DJEL7KQ1,I fearful failure I start drinking alcohol,Alcohol
+354,OGX0QSGU,Can beer lead problem,Alcohol
+355,LMD13ZEK,I much depressed lot confusion,Depression
+356,9LQLIVJN,I really feel disgusted diserted I feel depresses seeking guidance,Depression
+357,R0RZ3ISJ,I feel lonely I get position,Depression
+358,NM3JOH4T,I feel low sickly I lonelyCurrently feeling better guidance counselling,Depression
+359,8BR3ZDDW,people judge quickly I fail everything,Depression
+360,1YK7RQ1V,I still depressed,Depression
+361,5C7PZ719,How help depressed,Depression
+362,Q7T5GJPT,I feel withdrawn I get ex,Depression
+363,UXMHC2DY,I experiencing challenge raising school fees easy task family issues,Depression
+364,8A0L8D4F,I feel alone everyone deserted I need,Depression
+365,QJRZKSBF,I addict,Alcohol
+366,EXF1GZG5,How I quit drinking excessive alcohol,Alcohol
+367,4N0N95OJ,exactly depression,Depression
+368,ZMXITBVW,How stop using alcohol ways affect future,Alcohol
+369,822XTUHN,I stop taking alcohol,Alcohol
+370,PW3IHHIH,Why friends ignoring I going much life compared others,Suicide
+371,MFSIUMOQ,feel life unworthy,Depression
+372,4WT396Z8,How I quit alcoholism,Alcohol
+373,AXB45SPX,What ways quit bhang use,Drugs
+374,1ZFDUBIG,Fear future unpredictable feelings anxiety,Depression
+375,AZ86LNQL,Should I ignore friends,Alcohol
+376,D911LP0M,I making efforts quit challenging,Drugs
+377,X6ZOTZ9W,Should I go back ex girlfriend,Suicide
+378,J6JW6ZKN,I feel like God abandoned rather I supposed born existd,Depression
+379,RCNR7KU0,I life,Depression
+380,EFK2DMIY,How stop taking alcohol,Alcohol
+381,T6WTTRZR,How someone commit suicide,Suicide
+382,A9YBOHVL,I feel lonely sad,Depression
+383,BVG5L5JW,I feel wasted used GF,Depression
+384,QCRNZLUK,How come depressing situation,Depression
+385,4HOGHNMY,Am man enough,Alcohol
+386,YECHMD4P,How I stop using alcohol,Alcohol
+387,OED97WAE,How get point depression,Depression
+388,C23HZKC4,How campus education help,Depression
+389,758KAJFQ,I thinking suicide,Suicide
+390,X0WLSH74,Death beloved one,Depression
+391,49OI9LFV,Does alcohol add value,Alcohol
+392,YWFB8BMK,I Just want sleep relax consult anybody feel see anybody,Depression
+393,2KPKRR5Q,I feel sad lost,Depression
+394,W1OOD0X1,How better would I quit,Drugs
+395,MSEG1EUS,How cope reality financial distress,Drugs
+396,KR577F9W,What effects bhang,Drugs
+397,N4WXTO2Z,How I stop using alcohol,Alcohol
+398,NSKVDVTP,How quit drinking completely,Alcohol
+399,BT009XFM,I overcome,Alcohol
+400,KO08Y83E,Getting unexpected results dissatisfied,Depression
+401,JHPJKYTB,I relationship issues,Depression
+402,BWX7DDGA,Is possible overcome depression,Depression
+403,ML4Q1EUL,I feel suicidal dont know talk,Suicide
+404,1FN3F19Z,Being financially unstable,Depression
+405,SKQSS8U2,How get schoolfee continue education,Depression
+406,C4ZFBQCG,I feel bad viewed life negativecurrently better,Depression
+407,66S4DCDN,I feel lost unloved used annd I wanted alone,Depression
+408,SLQD8WSJ,Is life really fair,Suicide
+409,AHEFY73G,How cope situation,Alcohol
+410,0KPI3LLQ,How avoid bad company,Alcohol
+411,HYC7XX9D,hopeless,Depression
+412,N5NIMS0Z,Hopeless,Depression
+413,4AEMAVSI,Why alcohol sold along school perimeter,Alcohol
+414,DQ0ZRCBG,What ways I would use get rid messed life,Suicide
+415,9KB39E0J,feel drink I get addicted drinking,Alcohol
+416,QNZTZXTG,I feel good,Depression
+417,3NYXT52Q,What effects bhang one health Reasons young people use bhang,Drugs
+418,QNG7K64Y,avoid alcohol,Alcohol
+419,SJ7CFS9T,What order heal,Suicide
+420,KQFPSMHC,Can alcohol make forget problem temporarily,Alcohol
+421,TW5OZ0FT,I feel like I ca nt handle thoughts,Depression
+422,8B74B1L2,I overcome depression,Depression
+423,TI7ZV4JN,What effects alcohol liver,Alcohol
+424,SODQJHO6,I feel like nothing mattered everything messNow I feel like things matter,Depression
+425,YPERKZ41,What effects bhang,Drugs
+426,E5CV0MKI,I raise money education,Depression
+427,WYHWQWGQ,My relatives deny me…I wonder I part family,Depression
+428,PU0V70X8,How one avoid depression,Depression
+429,QAA28H63,I overcome stress,Depression
+430,PXYR9D4W,How I make go away,Suicide
+431,9XGSA7NA,What causes depression,Depression
+432,I7DEVJAV,Is taking alcohol bad,Alcohol
+433,0HK6V5IQ,I bored,Depression
+434,5U9CA7JB,cure depression,Depression
+435,JG53WKEQ,How feel better,Depression
+436,WV139P3G,Whats meaning life,Depression
+437,KTB98LYD,Why close relatives betray,Depression
+438,G56ZI56J,I feel lonely one could understand,Depression
+439,43COYA4O,What benefit alcohol,Alcohol
+440,ZVE1876W,Should iI talk friends peer counsellor depression,Depression
+441,1NYXESRZ,I helped heal depression,Depression
+442,RFP8XV4M,I went FGM young even though I consented,Depression
+443,68SJ8EY6,I feel like giving life,Depression
+444,B2YVEKVV,get depression,Depression
+445,3PQMK4FM,How I reduce intake,Alcohol
+446,F3UCEDHO,What causes suicide,Suicide
+447,NNJL1HJH,Why one feel paranoid,Drugs
+448,0RLWLLGO,How I stop addiction,Alcohol
+449,5QW8WM9C,Feelings defeat post exams depression Motivated better,Depression
+450,U8PFW5XV,I feel like calling semester,Depression
+451,VDCJVJSQ,I asked God take away feeling since strong,Suicide
+452,QK0XURE8,What doto receive relief,Alcohol
+453,345EH7SW,I feel like giving life,Depression
+454,NWDQ09Y6,Why alcohol manufactured,Alcohol
+455,AQXE8YUQ,I feel lot stress,Depression
+456,2DQC65OW,I feel helpless,Depression
+457,5MQ7A91J,How I deal pessimistic thoughts,Depression
+458,87074JKC,causes depression,Depression
+459,KVEYGOTJ,How avoid deal situation respond,Suicide
+460,LH9R1DBT,What makes girlfriend cheat even sacrificing everything sake,Suicide
+461,2NXFMOKE,I feel overwhelmed many thoughts deal,Depression
+462,BJLZVXMC,I feel alone unwanted people around,Depression
+463,HSE1ZTR9,How stop thinking suicide,Suicide
+464,3PJWHC2U,I feel like life wasted,Depression
+465,SDPWD1PN,quit habit,Alcohol
+466,6O89B9EY,Defering classes finacial constraints,Depression
+467,T7JBP0IC,How I seek assistance depression,Depression
+468,1961MJ2S,I dealing boredom,Depression
+469,4OESQ1EK,Is importance living Why live love surround,Suicide
+470,X8O9GH1U,The way stop addiction,Alcohol
+471,LADM6UFA,I overcome I issue results feel depressed,Depression
+472,QOFKBPUS,I dumped long I stay single sould I jump another relationship,Depression
+473,URI1V0R3,I feel heartbroken,Depression
+474,M2JMY4OO,Alcohol caused issues,Alcohol
+475,G44KLZZ4,How I get rid depression,Depression
+476,JRZYO5O8,I experiencing I ’ know depression,Depression
+477,3M7810JM,Can I get help,Suicide
+478,MADILFL0,I asked alcohol right solution problems,Alcohol
+479,2QC3W148,I feel hopeless wanting give,Depression
+480,WSAVYFFX,When someone depressed heshe feels discouraged alone I feel place lonely discouraged,Depression
+481,SEBOGNIF,Ways distracting,Suicide
+482,W907767X,I sad,Depression
+483,HE9RC42N,Why I depressed,Depression
+484,I8ZPACQI,Is suicide solution,Suicide
+485,DAYJJ61Y,I feel low demotivated I okay happy life,Depression
+486,RYJ3OZ9F,could I deal situation disturbing,Depression
+487,8ABCNKW4,I depressed death uncle provided basic needs,Depression
+488,DY1JKMGM,really true weed makes one mad,Drugs
+489,JAN18LES,Is normal feel depressed,Depression
+490,FCE44MSH,What meaning life,Suicide
+491,F8W8NSJJ,I feeling emptiness alone,Depression
+492,Q5E4HDTA,How I stop drinking habit,Alcohol
+493,73NZU7G2,I want give,Depression
+494,22RORUIT,I felling stressed low How I cope situation,Depression
+495,S116D8SI,I take alcohol stress management,Alcohol
+496,3X9HWVR4,Why I depressed,Depression
+497,JM5OPG3I,What causes depression,Depression
+498,PJLYRD1P,What coping mechanisms prevention depression,Depression
+499,QQL0MAIX,How I quit alcoholism,Alcohol
+500,OMRH3DVV,Is alcohol harmful health,Alcohol
+501,9DNFBSL2,If one looses close relative advice could given,Depression
+502,PTGL895A,Is alcohol good stress remover,Alcohol
+503,I3I44B31,I lonely,Depression
+504,6V3ZR95L,I lack interest life,Depression
+505,X7MFCWB0,Is little consumption harmful Owing fact I dont misbehave,Alcohol
+506,DQG9CGRC,Financial I okay,Depression
+507,4UV2FRHD,would I away problems,Alcohol
+508,TZ35PP65,How motivate,Suicide
+509,JOJHW6FC,Is possible one avoid taking bhang,Drugs
+510,18GKJ3U8,best way avoid alcohol,Alcohol
+511,ZTHQDLGP,I felt worhtless like I deserve alive,Depression
+512,D7VAHRPJ,I feel low,Depression
+513,8CQ5NA5Z,I feel alone I get better,Depression
+514,6S0LACRA,I feel rejected alone frustratedi live one day time,Depression
+515,D0P1CB0F,I feel low I want isolate,Depression
+516,BK5X5HHN,young people use bhang,Drugs
+517,S7MHCGJH,Can bhang make crazy,Drugs
+518,UDSG21T6,I took alcohol I loved feeling,Alcohol
+519,NHTBS1LG,normal depression,Depression
+520,CA0859HT,I feel alone,Depression
+521,LBV4ISID,How I stop taking alcohol Does alcohol benefitto body,Alcohol
+522,3933159G,I feel awful life,Depression
+523,6X6OH52Q,Feelings low weatherNow I better,Depression
+524,CUERB14Y,Why I quit bhang,Drugs
+525,MF0708RN,How deal romantic relationships,Depression
+526,Y3P3JZP1,What depressed What one reduce feelings,Depression
+527,ZIPNKKK7,What causes suicidal thoughts,Suicide
+528,KOORZYC0,I feel suicidal break,Depression
+529,DCPL2SXG,I experienced feel heavy burden,Depression
+530,HB8BVVJ8,Why drugs supplied students,Drugs
+531,4ZTPSBEF,How I overcome stress make life smooth,Depression
+532,KH0NT5XD,I two miscarriages,Depression
+533,3QGFARA3,I feel lost doI stay positive,Depression
+534,MYPDFILX,What effect talking someone feeling suicidal,Suicide
+535,FU6XHANF,I feel neglected sad,Depression
+536,84L7CK98,I dealing family issues,Depression
+537,NIKN6HS2,Is suicide really best method solving problem,Suicide
+538,OSZQ8K2J,What avoid shame village people,Suicide
+539,VG5P3433,How could I survive without friends,Suicide
+540,L6CVBCFS,This occuring quite often,Depression
+541,EW1NTSYD,How avoid negative peer pressure,Alcohol
+542,R7L7Y1IG,How away alcohol,Alcohol
+543,GXWI7EJL,I dealing break girlfriend parents death,Depression
+544,PY1C5ZVD,I feel like I hate choices I made awful,Depression
+545,ZV03WYKN,I improve performance,Depression
+546,NQ7HK3NP,How handle suicide incidencesof suicide youths,Suicide
+547,PNR0M0CI,Which best alcohol,Alcohol
+548,447QAS4Z,How avoid alcoholism,Alcohol
+549,PTSOT6WO,How I sought help wanting commit suicide,Suicide
+550,X1F6M1BU,I failed exams I F,Depression
+551,CN5UZZA0,I feel like I nothing worldm,Depression
+552,YKET9W6S,How get back selfworth,Suicide
+553,8KUTQA8G,Lack financial support relationship heartbreaks,Depression
+554,XK6D0XGQ,What steps one take depressed,Depression
+555,V00KVMET,I feel uncomfortable,Depression
+556,HE9MDURK,I really lot headaches,Depression
+557,QCT744TT,someone drink much,Alcohol
+558,CI8NAQTY,Will criticized taking weed,Drugs
+559,ZSF30K8E,What could causes stress boredom,Depression
+560,M1KNYEPT,How could I leave depression,Depression
+561,W0AUKZRT,How overcome utilize finances,Alcohol
+562,0U0Y49QR,How I seek guidance counselling school,Depression
+563,6IT1WAXZ,Causes depression How contol depression,Depression
+564,7HSK66Q3,Can helped,Suicide
+565,09UQ1YVQ,I went bankrupt alcohol,Alcohol
+566,FAU3TYWK,Why life unfair,Alcohol
+567,LTM0VOJQ,How I come behaviour,Alcohol
+568,JZG8HMQ7,Is taking alcohol harmful,Alcohol
+569,TZGXQ1SQ,How stop using alcohol,Alcohol
+570,3NQJBPAE,Is right smoke weed name culture,Drugs
+571,JBSV1NI3,Relationship issues,Depression
+572,LXE8Y8YR,ways one control thoughts suicide,Suicide
+573,ZPPBDI79,Feelings unworthyness Do nt want associate people Feeling things work expected,Depression
+574,D62XN9BS,avoid,Alcohol
+575,83YRGPF8,I feel world coming end,Depression
+576,S6Z4BOS6,My hustle picking,Depression
+577,WAQY2UT3,I live without depression,Depression
+578,UY04AGX9,What avoid loss concentration class fantasizing class study timeson romance ponographic issues,Depression
+579,20JTA1GT,addiction avoided,Drugs
+580,B5R3WNYS,Between bhang cigarette harmful,Drugs
+581,5MXEJTEL,I feel low I,Depression
+582,6FEFKN0F,I need talk friend,Suicide
+583,4EHEFJ7J,How I forgive past,Depression
+584,0QXYZFYQ,I feel like I nobody,Depression
+585,NC74KWCJ,Major steps taken get rid alcohol consumption,Alcohol
+586,JQ7A9X4T,The world control,Depression
+587,R00OLRGP,Lossing bets,Depression
+588,1SYJ01MY,What effects taking alcohol,Alcohol
+589,DEAG586I,I feel like giving,Depression
+590,LZGOZDYD,Why bhang prohibited yet like drug,Drugs
+591,7L4SAC5S,Not experienced,Depression
+592,73C44L96,I feel like crumbling,Depression
+593,KB43N6AK,At home one listens parents started neglecting despising I,Depression
+594,M0DT8TFB,Is weed harmful,Drugs
+595,20KAZ8T1,I feel bad fine,Depression
+596,C8VZAJWW,Low self esteem,Depression
+597,IO9JHGW7,Is weed really going give energy I needed,Drugs
+598,Z6F1A8PK,I never sought assistance,Suicide
+599,C2GBAI5D,How stop alcohol intake,Alcohol
+600,H35L8ZD9,deal migraines,Depression
+601,139DFUFL,Is suicide best remedy,Suicide
+602,6SZ3EXJ3,I ask assistance first later sought assistance helped good way,Suicide
+603,S6WK4NBL,I feel confused I overcome problem,Depression
+604,ULID3I4V,How I resist peer pressure,Drugs
+605,MYHIEXZJ,I tired,Suicide
+606,0OSLJ1HL,Where get money drinking daily,Alcohol
+607,XDD8ATSC,Why hard stop weed addict,Drugs
+608,LGAPCAYO,I feel low times,Depression
+609,KFPOMS0P,Why I alive,Suicide
+610,69V3L12G,Life hard,Depression
+611,BOHSNXCN,What I stop alcoholism,Alcohol
+612,GVDXRQPY,How become oldself,Suicide
+613,IO4JHIQS,How someone stop,Alcohol
+614,1DS3P1XO,I feel unworthy,Depression
+615,ORF71PVQ,I feel discouraged life,Depression

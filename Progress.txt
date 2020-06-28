@@ -6,3 +6,14 @@ Tasks:
 3. anything you want (Catherine)
 
 Next Meeting: 06/19/2020 (Friday) 
+
+
+06/20/2020
+1. Anthony: read article and figure out tensor flow
+2. Athena: multiclass support vector machine
+3. Cat: perceptrons
+
+6/24/2020
+1. Anthony: try to improve the score, find a way to calcualte log loss 
+2. Athena: build a algorithm using this https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f
+3. Cat: conitnue with her NLP model
